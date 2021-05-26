@@ -1,0 +1,10 @@
+[{"Timestamp":663763918564,"Event":"Positive_video_1 start"},{"Timestamp":663763931376,"Event":"Positive_video_1 end"},
+{"Timestamp":663763941332,"Event":"Positive_video_2 start"},{"Timestamp":663763971348,"Event":"Positive_video_2 end"},
+{"Timestamp":663763981355,"Event":"Positive_video_3 start"},{"Timestamp":663764012289,"Event":"Positive_video_3 end"},
+{"Timestamp":663764027515,"Event":"Neutral_video_1 start"},{"Timestamp":663764053620,"Event":"Neutral_video_1 end"},
+{"Timestamp":663764063716,"Event":"Neutral_video_2 start"},{"Timestamp":663764087573,"Event":"Neutral_video_2 end"},
+{"Timestamp":663764097665,"Event":"Neutral_video_3 start"},{"Timestamp":663764118504,"Event":"Neutral_video_3 end"},
+{"Timestamp":663764118512,"Event":"Negative_video_1 start"},{"Timestamp":663764146600,"Event":"Negative_video_1 end"},
+{"Timestamp":663764166728,"Event":"Negative_video_2 start"},{"Timestamp":663764186697,"Event":"Negative_video_2 end"},
+{"Timestamp":663764198713,"Event":"Negative_video_3 start"},{"Timestamp":663764218706,"Event":"Negative_video_3 end"}]
+
